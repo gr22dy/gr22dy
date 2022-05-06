@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @gr22dy
-- 👀 I’m interested in Finance, E-commerce, supply-chain
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me 94minseok.kim@gmail.com or rkrmfls0929@naver.com 
+I'm Minseok Kim in Korea
 
-<!---
-gr22dy/gr22dy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Major is Economics(Catholic University of Korea)
+
+Studying Data Science
+
+Operating Cafe in Jeju @nolonezone_coffee
+
+--------------------
+
+
+
+
